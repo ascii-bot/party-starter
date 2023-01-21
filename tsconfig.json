@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "module": "ESNext",
+    "typeRoots": ["node_modules/@types/"],
+    "jsx": "react-jsx",
+    "declaration": true,
+    "declarationDir": "build"
+  }
+}
